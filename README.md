@@ -1,5 +1,5 @@
 <h1 align="center">
-¡Hola, Sor Renm!
+¡Hola, Soy Renm!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
@@ -107,7 +107,7 @@ Renm@github
 <!--Contact Section--> 
 <h2 align="center">🤝 Contactame 🤝 </h2>
 <div align="center">
- <a href="www.linkedin.com/in/luis-sanchez-gonzález" target="_blank">
+ <a href="https://www.linkedin.com/in/renm1090/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
   
