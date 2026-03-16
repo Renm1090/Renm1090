@@ -66,13 +66,13 @@ Renm@github
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Proyecto</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Renm1090/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Renm1090&repo=Sistema-de-Control-de-Transporte-Publico-de-Puebla&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
-    </td>
+  <h3 align="center"><strong>Proyecto Destacado</strong></h3>
+  <p align="center">
+    <a href="https://github.com/Renm1090/Sistema-de-Control-de-Transporte-Publico-de-Puebla">
+      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Renm1090&repo=Sistema-de-Control-de-Transporte-Publico-de-Puebla&theme=nightowl&show_owner=true" alt="Proyecto de Transporte" />
+    </a>
+  </p>
+</td>
     <td width="50%">
       <h3 align="center"><strong>Top Contribuciones</strong></h3>
       <p align="center">
